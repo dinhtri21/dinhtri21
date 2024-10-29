@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dinh Tri
+Hi everyone!👋 My name is Dinh Tri
 ================================================================================================================================
 * 🌍  I'm based in VietNam
 * ✉️  You can contact me at [tringuyen.21092003@gmail.com](mailto:tringuyen.21092003@gmail.com)
