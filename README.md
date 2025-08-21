@@ -2,7 +2,7 @@
 
 ###
 
-- My goal is to become a full stack developer.
+- I'm based in VietNam.
 - Ability to learn and apply new technology quickly</p>
 
 ###
