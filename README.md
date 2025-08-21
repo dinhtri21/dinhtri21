@@ -31,6 +31,10 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
@@ -63,6 +67,7 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
 </div>
+
 
 ###
 
